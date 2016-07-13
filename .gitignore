@@ -1,0 +1,17 @@
+Library
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.userprefs
+*.unityproj
+Temp/*
+obj/*
+AndroidPlugins/bin
+AndroidPlugins/gen
+MrYear_Xcode
+
+*.apk
+Temp
+NameSpace
+obj
